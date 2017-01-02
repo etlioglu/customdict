@@ -1,0 +1,56 @@
+toelatingsvoorwaarden,admission conditions,2016-09-01,2016-09-01
+onenigheid,disaggreement,2016-03-24,2016-03-24
+toestemming,permission,2016-03-22,2016-03-22
+test4,test4,2016-11-09,2016-11-09
+test7,test7,2016-11-09,2016-11-09
+vaardigheden,skills,2016-09-01,2016-09-01
+kwetsbaar,vulnerable,2016-10-10,2016-10-10
+op maat,customized,2016-03-29,2016-03-29
+bevalling,birth,2016-09-01,2016-09-01
+inhoud,content,2016-09-01,2016-09-01
+evenals,just as,2016-04-05,2016-04-05
+bijvoeglijk naamwoord,adjective,2016-04-05,2016-04-05
+vervolledigen,to complete,2016-03-23,2016-03-23
+voorstellen,to propose,2016-03-22,2016-03-22
+verborgen,hidden,2016-03-22,2016-03-22
+mondeling,oral,2016-03-22,2016-03-22
+bloemkool,cauliflower,2016-03-23,2016-03-23
+1,het geweld,2017-01-02,2017-01-02
+tegelijk,es zamanli,2016-10-10,2016-10-10
+denemeucak,denemeiste,2016-11-09,2016-11-09
+dader,perpetrator/fail,2016-03-23,2016-03-23
+kussen,yastik,2016-10-10,2016-10-10
+saai,boring,2016-08-02,2016-08-02
+de maat,size,2016-03-29,2016-03-29
+indruk,impression,2016-09-02,2016-09-02
+ad hoc,amaca ozel,2017-01-02,2017-01-02
+duurzamheid,durability,2016-03-24,2016-03-24
+verkeren,to be,2016-03-23,2016-03-23
+de tent,the tent,2016-03-23,2016-03-23
+ontwikkelaar,developer,2016-11-09,2016-11-09
+melden,to report,2016-03-22,2016-03-22
+de duin,dune,2016-03-29,2016-03-29
+vijgen,incir,2016-09-01,2016-09-01
+verzoeken,to request,2016-03-24,2016-03-24
+de tand,the tooth,2016-03-23,2016-03-23
+test2,test2,2016-11-09,2016-11-09
+beweren,to claim,2016-03-24,2016-03-24
+zwangerschap,pregnancy,2016-09-01,2016-09-01
+de grot,the cave,2016-03-23,2016-03-23
+druif,grape,2016-03-22,2016-03-22
+ontslagen,taburcu edilmek,2016-10-10,2016-10-10
+de tocht,tour,2016-04-20,2016-04-20
+de pers,press,2016-03-29,2016-03-29
+terechtkomen,end up,2017-01-02,2017-01-02
+trekken,to pull,2016-04-20,2016-04-20
+katerig,hangoverish,2016-03-24,2016-03-24
+voorzichtig,cautious,2016-03-23,2016-03-23
+huidig,current,2016-03-24,2016-03-24
+vaardigheid,ability,2016-09-08,2016-09-08
+zwijgen,to shut up,2016-08-02 19:37:08.677528,2016-08-02 19:37:08.677528
+roem,fame,2016-10-10,2016-10-10
+emre,emre,2016-09-08,2016-09-08
+aanklacht,suclama,2016-10-10,2016-10-10
+herladen,to recharge,2016-03-29,2016-03-29
+ook al,even though,2016-03-23,2016-03-23
+belachelijk,ridiculous,2016-04-20,2016-04-20
